@@ -75,11 +75,6 @@ Final Training Loss: 0.1758
 Final Validation Accuracy: 90.62%
 Final Validation Loss: 0.2019
 
-## Final Model Results
-Training Accuracy: 96%
-Validation Accuracy: 93%
-Test Accuracy: 92%
-
 ## Core CNN Concepts
 Convolution Purpose
 Convolution operations detect image features like edges and textures.
